@@ -12,9 +12,7 @@
 ## 개발 환경 셋업
 
 ```bash
-# .nvmrc에 명시된 node 버전 설치
-nvm use
-
-# corepack 사용 설정
-corepack enable
+nvm use # .nvmrc에 명시된 node 버전 설치
+corepack enable # corepack 활성화
+corepack prepare --activate # package.json에 명시된 버전으로 변경
 ```
