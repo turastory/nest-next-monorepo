@@ -16,3 +16,12 @@ nvm use # .nvmrc에 명시된 node 버전 설치
 corepack enable # corepack 활성화
 corepack prepare --activate # package.json에 명시된 버전으로 변경
 ```
+
+### VSCode
+
+![Select typescript version](docs/images/select-typescript-version.png)  
+![Typescript in workspace](docs/images/typescript-in-workspace.png)
+
+### WebStorm
+
+https://memostack.tistory.com/287

@@ -9,4 +9,6 @@ indent_style = space
 
 [*.{js,json,yml}]
 charset = utf-8
+
+[*.md]
 trim_trailing_whitespace = false
