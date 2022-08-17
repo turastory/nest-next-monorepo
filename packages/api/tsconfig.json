@@ -7,7 +7,9 @@
     "removeComments": true,
     "emitDecoratorMetadata": true,
     "sourceMap": true,
-    "outDir": "./dist",
-    "baseUrl": "./"
-  }
+    "baseUrl": "./",
+    "outDir": "dist"
+  },
+  "include": ["src/**/*.ts"],
+  "references": [{ "path": "../common" }]
 }

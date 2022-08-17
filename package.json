@@ -5,7 +5,9 @@
     "packages/*"
   ],
   "scripts": {
-    "ui": "yarn workspace ui"
+    "ui": "yarn workspace ui",
+    "common": "yarn workspace common",
+    "api": "yarn workspace api"
   },
   "devDependencies": {
     "@types/node": "^18.7.6",

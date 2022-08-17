@@ -7,6 +7,10 @@
     "forceConsistentCasingInFileNames": true,
     "allowSyntheticDefaultImports": true,
     "incremental": true,
-    "strict": true
+    "strict": true,
+    "paths": {
+      // Utility packages path resolutions
+      "common/*": ["../common/dist/*"]
+    }
   }
 }
