@@ -2215,6 +2215,16 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "linkType": "HARD"\
         }]\
       ]],\
+      ["@types/source-map-support", [\
+        ["npm:0.5.4", {\
+          "packageLocation": "./.yarn/cache/@types-source-map-support-npm-0.5.4-1c4eb2be20-160ff77e8a.zip/node_modules/@types/source-map-support/",\
+          "packageDependencies": [\
+            ["@types/source-map-support", "npm:0.5.4"],\
+            ["source-map", "npm:0.6.1"]\
+          ],\
+          "linkType": "HARD"\
+        }]\
+      ]],\
       ["@types/stack-utils", [\
         ["npm:2.0.1", {\
           "packageLocation": "./.yarn/cache/@types-stack-utils-npm-2.0.1-867718ab70-205fdbe332.zip/node_modules/@types/stack-utils/",\
@@ -3043,6 +3053,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["@types/express", "npm:4.17.13"],\
             ["@types/jest", "npm:26.0.24"],\
             ["@types/node", "npm:16.11.49"],\
+            ["@types/source-map-support", "npm:0.5.4"],\
             ["@types/supertest", "npm:2.0.12"],\
             ["@typescript-eslint/eslint-plugin", "virtual:ee30e4e8621888118e3112c9a4791d8c9d181961a7fc656afb8f9862703185d5aaf75e7d8371b318217947e6ff3ef744eedc1fa54c88d453e07d11fef918be75#npm:4.33.0"],\
             ["@typescript-eslint/parser", "virtual:ee30e4e8621888118e3112c9a4791d8c9d181961a7fc656afb8f9862703185d5aaf75e7d8371b318217947e6ff3ef744eedc1fa54c88d453e07d11fef918be75#npm:4.33.0"],\
@@ -3054,6 +3065,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["reflect-metadata", "npm:0.1.13"],\
             ["rimraf", "npm:3.0.2"],\
             ["rxjs", "npm:7.5.6"],\
+            ["source-map-support", "npm:0.5.21"],\
             ["supertest", "npm:6.2.4"],\
             ["ts-jest", "virtual:ee30e4e8621888118e3112c9a4791d8c9d181961a7fc656afb8f9862703185d5aaf75e7d8371b318217947e6ff3ef744eedc1fa54c88d453e07d11fef918be75#npm:27.1.5"],\
             ["ts-loader", "virtual:ee30e4e8621888118e3112c9a4791d8c9d181961a7fc656afb8f9862703185d5aaf75e7d8371b318217947e6ff3ef744eedc1fa54c88d453e07d11fef918be75#npm:9.3.1"],\
