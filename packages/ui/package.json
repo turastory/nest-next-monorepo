@@ -2,7 +2,8 @@
   "name": "ui",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "prebuild": "tsc -b --clean && tsc -b",
+    "dev": "yarn prebuild && next dev",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
