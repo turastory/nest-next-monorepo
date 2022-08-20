@@ -3512,7 +3512,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
           "packageDependencies": [\
             ["browserslist", "npm:4.21.3"],\
             ["caniuse-lite", "npm:1.0.30001378"],\
-            ["electron-to-chromium", "npm:1.4.222"],\
+            ["electron-to-chromium", "npm:1.4.224"],\
             ["node-releases", "npm:2.0.6"],\
             ["update-browserslist-db", "virtual:7dabe86a57e66f38602a3318a9a679c09cef5315077ee4afa3dbf7e16ac6eadfd7834360e07fea78c56290801aa035a0803a3e03041c77287c222df384f2a179#npm:1.0.5"]\
           ],\
@@ -4415,10 +4415,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["electron-to-chromium", [\
-        ["npm:1.4.222", {\
-          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.222-57ddd30388-acae758e1c.zip/node_modules/electron-to-chromium/",\
+        ["npm:1.4.224", {\
+          "packageLocation": "./.yarn/cache/electron-to-chromium-npm-1.4.224-99ed681793-c28eeab10e.zip/node_modules/electron-to-chromium/",\
           "packageDependencies": [\
-            ["electron-to-chromium", "npm:1.4.222"]\
+            ["electron-to-chromium", "npm:1.4.224"]\
           ],\
           "linkType": "HARD"\
         }]\
@@ -7605,7 +7605,7 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
             ["lru-cache", "npm:7.14.0"],\
             ["minipass", "npm:3.3.5"],\
             ["minipass-collect", "npm:1.0.2"],\
-            ["minipass-fetch", "npm:2.1.0"],\
+            ["minipass-fetch", "npm:2.1.1"],\
             ["minipass-flush", "npm:1.0.5"],\
             ["minipass-pipeline", "npm:1.2.4"],\
             ["negotiator", "npm:0.6.3"],\
@@ -7784,10 +7784,10 @@ function $$SETUP_STATE(hydrateRuntimeState, basePath) {
         }]\
       ]],\
       ["minipass-fetch", [\
-        ["npm:2.1.0", {\
-          "packageLocation": "./.yarn/cache/minipass-fetch-npm-2.1.0-300ce55188-1334732859.zip/node_modules/minipass-fetch/",\
+        ["npm:2.1.1", {\
+          "packageLocation": "./.yarn/cache/minipass-fetch-npm-2.1.1-c4a8efdb09-1aae0c2240.zip/node_modules/minipass-fetch/",\
           "packageDependencies": [\
-            ["minipass-fetch", "npm:2.1.0"],\
+            ["minipass-fetch", "npm:2.1.1"],\
             ["encoding", "npm:0.1.13"],\
             ["minipass", "npm:3.3.5"],\
             ["minipass-sized", "npm:1.0.3"],\
